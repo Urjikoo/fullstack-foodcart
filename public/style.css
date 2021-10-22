@@ -1,0 +1,11 @@
+body {
+  padding-top: 80px;
+  word-wrap: break-word;
+  background-image: url("/img/dole.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+img {
+  height: 200px;
+  width: 180px;
+}

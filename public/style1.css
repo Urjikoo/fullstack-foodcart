@@ -1,0 +1,39 @@
+body {
+  background-image: url("/img/veg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+h1 {
+  height: 80px;
+  background-color: rgba(255, 251, 251, 0.954);
+  font-size: 60px;
+}
+.inSeason {
+  color: hotpink;
+  border: 1px solid gray;
+  border-radius: 10px;
+  height: 480px;
+  width: 40%;
+  float: left;
+  margin: 30px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgba(255, 251, 251, 0.954);
+}
+.produceName,
+span,
+button {
+  width: 100px;
+  margin: 5px;
+  grid-column: left;
+}
+.cart {
+  color: green;
+  border: 1px solid gray;
+  border-radius: 10px;
+  height: 480px;
+  width: 40%;
+  float: left;
+  margin: 30px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgba(255, 251, 251, 0.954);
+}

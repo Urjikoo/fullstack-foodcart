@@ -1,0 +1,16 @@
+.container {
+  margin-top: 60px;
+  width: 60%;
+  height: 370px;
+  border: 1px solid gray;
+  background-color: rgb(230, 230, 230);
+
+  border-radius: 15px;
+}
+body {
+  padding-top: 80px;
+  word-wrap: break-word;
+  background-image: url("/img/dole.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
